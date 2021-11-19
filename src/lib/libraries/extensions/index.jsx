@@ -317,5 +317,9 @@ export default [
             />
         ),
         helpLink: 'https://scratch.mit.edu/vernier'
+    },
+    {
+        name: 'Hello',
+        extensionId: 'hello'
     }
 ];
